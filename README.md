@@ -1,1 +1,1 @@
-# DataMola-CV
+# Test task for DataMola
